@@ -40,10 +40,10 @@ TARGET_SCREEN_HEIGHT := 1920
 TARGET_SCREEN_WIDTH := 1080
 
 # Fingerprint
-PRODUCT_PACKAGES += \
-    android.hardware.biometrics.fingerprint@2.1-service \
-    fingerprint.universal5420 \
-    validityService
+# PRODUCT_PACKAGES += \
+#    android.hardware.biometrics.fingerprint@2.1-service \
+#    fingerprint.universal5420 \
+#    validityService
 
 # Key-layout
 PRODUCT_COPY_FILES += \
