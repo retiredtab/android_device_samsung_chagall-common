@@ -1,4 +1,5 @@
 <manifest version="1.0" type="device" target-level="5" >
+<!--
     <hal format="hidl">
         <name>vendor.lineage.livedisplay</name>
         <transport>hwbinder</transport>
@@ -20,6 +21,7 @@
             <instance>default</instance>
         </interface>
     </hal>
+-->
 <!--
     <hal format="hidl">
         <name>vendor.lineage.touch</name>
